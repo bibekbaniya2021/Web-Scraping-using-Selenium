@@ -1,2 +1,2 @@
 # Web-Scraping-using-Selenium
-I will use selenium for web scraping
+Scrape Top 10 trending videos in youtube using Selenium
